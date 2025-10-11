@@ -12,13 +12,21 @@ I am still in the first stage of the engineering design process which is to iden
 
 ## Skills
 
-Some of the skills i have learned while working on blog 1 are **how to research**, **time management**, and 
+Some of the skills i have learned while working on blog 1 are **how to research**, and **time management**.
 
 #### How to research 
 
 While researching for this project, millions of resultus showed up but reading them all would take too long. What I leanred is that instead of reading all the titles I can just look for key words like technology or medical. What I also learned is that to find what your looking for, you have to use keywords in order to find the website you need. For example, instead of searching up  _technological advances_ I searched up _technological advances in the medical industry_ which helped get rid the resultus that i don't want. 
 
 #### Time management 
+
+I usually don't manage my time well and I procrastinate a lot on my work but this project taught me how to manage my time. After school I have important tasks to complete like doing chores around the house, going to after school, and having 9th period gym. But school and homework like this blog makes it hard to do the things i want or need to do. so I decide to spend less time on myself and to use that extra time to do work. I also started to do work during lunch so i will have less work when coming back home. this will help me become a better student in the future. 
+
+## Summary/Next steps
+
+Overall, I'm very excited to do more research on my topic and to start my website. Hopefully people will see my website and start to think that technology and medince connect with each other. 
+
+
 
 
 
