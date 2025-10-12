@@ -20,7 +20,7 @@ While researching for this project, millions of results showed up, but reading t
 
 #### Time management 
 
-I usually don't manage my time well, and I procrastinate a lot on my work, but this project taught me how to manage my time. After school, I have important tasks to complete, like doing chores around the house, going to after-school activities, and having 9th period gym. But school and homework, like this blog, makes it hard to do the things i want or need to do. So, I decided to spend less time on myself and to use that extra time to do work. I also started to do work during lunch so I will have less work when coming back home. This will help me become a better student in the future. 
+I usually don't manage my time well and I procrastinate a lot on my work but this project taught me how to manage my time. After school, I have important tasks to complete, like doing chores around the house, going to after-school activities, and having 9th period gym. But school and homework, like this blog, makes it hard to do the things i want or need to do. So, I decided to spend less time on myself and to use that extra time to do work. I also started to do work during lunch so I will have less work when coming back home. This will help me become a better student in the future. 
 
 ## Summary/Next steps
 
