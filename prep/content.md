@@ -17,9 +17,15 @@ Topic: **X**
   * The app gives you plan ideas to save
   * it also gives you the location of farmers markets near you
   * it gives you tips on how to cook properly
-  * it tells you wwhen to know when fruits and veggies are expired
+  * it tells you when to know when fruits and veggies are expired
   * Photo: [My plate](https://www.myplate.gov/themes/custom/myplate/assets/img/myplate/myplate-brand.svg)
-* 
+*The website where i find the app: https://www.health.harvard.edu/mindscape/resources/apps
+  *  the app: https://mobile.va.gov/app/mindfulness-coach
+  *  Mindfulness coach is devloped with the help of Veterans to help others pratice mindfulness.
+  *  the app helps you use mindfulness pratices in the real world.
+  *  the app includes auido exercises
+  *  the app helps you set goals and tracks them over time.
+  *  it sets up reminders for you when you need help 
     
 
 ## Part B: possible future technology
