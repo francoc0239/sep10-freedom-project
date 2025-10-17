@@ -19,7 +19,7 @@ Topic: **X**
   * it gives you tips on how to cook properly
   * it tells you when to know when fruits and veggies are expired
   * Photo: [My plate](https://www.myplate.gov/themes/custom/myplate/assets/img/myplate/myplate-brand.svg)
-*The website where i find the app: https://www.health.harvard.edu/mindscape/resources/apps
+* The website where i find the app: https://www.health.harvard.edu/mindscape/resources/apps
   *  the app: https://mobile.va.gov/app/mindfulness-coach
   *  Mindfulness coach is devloped with the help of Veterans to help others pratice mindfulness.
   *  the app helps you use mindfulness pratices in the real world.
