@@ -34,6 +34,22 @@ Topic: **X**
   * it gives you support by making you feel confident
   * you can acess health and weight management articals
   * tips and it gives you ideas for exercise
+* HARDWARE:
+* Hearing Aids
+  * Hearing Aids are devices that are used to make sound louder to help people with hearing loss.
+  * anyone can wear hearing aids
+* Respiratory Devices
+  * these device help people breath when they have a hard time breathing
+  * there are many differnt divieces that help you breath like
+  * Continuous Ventilatores where they mechanically control a persons breathing while giving the person a amount of oxygen
+  * another device is caalled a continuous positive airway pressure (CAPAP) machines. this device helps people keep their airway open and givivng them a stream of air at a pressure through a mask to give them air while they sleep.
+  * [picture of it](https://www.fda.gov/files/man_using_CPAP_drupal_1600x900-01.png)
+  * https://www.fda.gov/medical-devices/products-and-medical-procedures#:~:text=Devices%20by%20Specialty-,Respiratory%20Devices,Medical%20Devices this is where i got it from.
+ * A pedometer
+  * A pedometer is a device where people of older age can use to count their steps. it could be used to gewt goals
+  * it could be used to make people be more active and set healthy habits for others.
+  * it could help you set goals and understand how much you move per day when you wake up and when you go back to sleep. 
+    
     
 
 ## Part B: possible future technology
