@@ -48,7 +48,9 @@ Topic: **X**
  * A pedometer
   * A pedometer is a device where people of older age can use to count their steps. it could be used to gewt goals
   * it could be used to make people be more active and set healthy habits for others.
-  * it could help you set goals and understand how much you move per day when you wake up and when you go back to sleep. 
+  * it could help you set goals and understand how much you move per day when you wake up and when you go back to sleep.
+  * it could also help you make a plan on how to live a healthy life
+  * https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMuT2MvdfLmajkG3y6UDUTgShvwxgglrR0Q&s
     
     
 
