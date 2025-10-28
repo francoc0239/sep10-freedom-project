@@ -51,7 +51,12 @@ Topic: **X**
   * it could help you set goals and understand how much you move per day when you wake up and when you go back to sleep.
   * it could also help you make a plan on how to live a healthy life
   * https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMuT2MvdfLmajkG3y6UDUTgShvwxgglrR0Q&s
-    
+* Contact Lenses
+* Website:
+ * https://www.fda.gov/medical-devices/consumer-products/contact-lenses
+ * Contact Lenses are used by many peopoe with vision problems
+ * contact lenses make it eaiser for people to use.
+ * there are many different types of lenses for different needs or preferences
     
 
 ## Part B: possible future technology
