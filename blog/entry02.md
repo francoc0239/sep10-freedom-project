@@ -11,7 +11,8 @@
  There are some skills I leanred while researching my topic. I also improved on some skills while researching. 
  ### Organization 
  While researching for part A, I had to learn how to organized in my notes so I could understand what I wrote. I would also have to be organized to understand the website and what its about. Before organizing my notes I would just clump them together and I would always get confused about what I wrote. I realized that i had to organize my notes by adding headings and descripctions about what I learned from the website. Because of my messy notes and not being able to read them, i decied to be organized and seperate the notes by the website and the topics it talks about. This made it much easier to understand and do the research. 
- ### 
+ ### How to read
+ While looking for websites for Part A, I read all the words on the website or took too long to look for the website, so it took a long time to find the right app or website. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
