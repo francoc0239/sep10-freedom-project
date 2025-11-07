@@ -6,12 +6,13 @@
  ## Engineering Design Process
  Im still on the second stage which is to find more information. For the second stage **i want people to see that there is both physical technpology and app that is related or used for in the Medical indsty and that its important to help people.** im getting close to stage 3 which is to research the future of technology in the Medical industy. For stage 3 i will have to find mofre reliabe resoucres that predict the future of technology for medical industy and how it can change peoples lives for the better.  
  ## Skills
- There are some skills I leanred while researching my topic. I also improved on some skills while researching like learning how to search things up on the internet better. 
+ There are some skills I leanred while researching my topic. Some of those skills are **How  to organize**, and **How to read** I also improved on some skills while researching like learning how to search things up on the internet better. 
  ### Organization 
  While researching for part A, I had to learn how to organized in my notes so I could understand what I wrote. I would also have to be organized to understand the website and what its about. Before organizing my notes I would just clump them together and I would always get confused about what I wrote. I realized that i had to organize my notes by adding headings and descripctions about what I learned from the website. Because of my messy notes and not being able to read them, i decied to be organized and seperate the notes by the website and the topics it talks about. This made it much easier to understand and do the research. 
  ### How to read
- While looking for websites for Part A, I read all the words on the website or took too long to look for the website so it took a long time to find the right app or website. This is what i usually do, but while researching I started to notice that skimming and looking for keywords could make the process of finding websites and apps better and fast for time while still getting the same results. While researching for the contact lenses website, I took a long time reading and trying to find information in the different sections of the website. But then I started to look for keywords that would get me to the results that i want. 
- ## Summary
+ While looking for websites for Part A, I read all the words on the website or took too long to look for the website so it took a long time to find the right app or website. This is what i usually do, but while researching I started to notice that skimming and looking for keywords could make the process of finding websites and apps better and fast for time while still getting the same results. While researching for the contact lenses website, I took a long time reading and trying to find information in the different sections of the website. But then I started to look for keywords that would get me to the results that I want. 
+ ## Summary/Next steps
+ Overall, Im done with the research and Im ready for the next step for my Freedom Project which is to research for part B.
  
  
 ]
