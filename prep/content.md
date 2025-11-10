@@ -1,9 +1,9 @@
 # Content
-Topic: **X**
+Topic: **The Medical Industry**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* The Medical Industry is everything related to Medcial products, Medical buildings, Health insurance, and jobs like; doctors, hospitals, and nurses.
+* Technology has and always will be ingraved in the sucess of the Medcial Industry because of the big impact is has. Some examples are equipment like foil blankets, gauze, CT scanners, Bandges. These different types of equipment would not be here without technology.
 
 ## Part A: existing technology
 * Tech
