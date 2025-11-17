@@ -10,7 +10,8 @@ Topic: **The Medical Industry**
    * Apps looked into: [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach), [Mood Fit](https://www.getmoodfit.com/), [Insight Timer](https://insighttimer.com/)
    * Findings: These apps help people maintain a healthy and stable mind by making them realxed
    * These apps make people do praatices that help them when they need it. Some practies are listening to music, meditating, sleeping, going out, doing exercise, Ect
-   * 
+   * Thess apps keep track of peoples mental health and they do daily check ups to make sure people are spending time for their mental health.
+   * These apps are amazing ways to relax and destress in a healthy way when you really need it
  
 
 * Physical Health
