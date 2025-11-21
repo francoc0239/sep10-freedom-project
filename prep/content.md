@@ -21,6 +21,18 @@ Topic: **The Medical Industry**
   * These apps and devices help people maintian their physcial health by providing them with resoucres and help that they need to be healthy
   * these technologies imapacts peoples health and bodsy by being able to cure,treat, and prevent peoples problems depending on what they have. 
 
+## Part B: Future Technology
+* A personal doctor robot that goes with you wherever you go
+  * image from AI: ![](baymax.png)
+  * The  robot will be able to make you any medicine you  need and it'll give you the right amount of medicine every time 
+  * It'll be able to take your temperature
+  * It'll be able to take care of you and give you things when you can't move
+  * It'll be able to move anywhere at anytime 
+  * It has built in safe AI so it can be up to date 
+
+* A band aid that heals your cuts and bruises very fast 
+  * As you put on a bandaid, it just heals your minor cuts and bruises. 
+  * It could also disinfect your cuts so you won't get sick or infected. 
 
 
 
