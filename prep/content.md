@@ -12,7 +12,7 @@ Topic: **The Medical Industry**
    * These apps make people do praatices that help them when they need it. Some practies are listening to music, meditating, sleeping, going out, doing exercise, Ect
    * Thess apps keep track of peoples mental health and they do daily check ups to make sure people are spending time for their mental health.
    * These apps are amazing ways to relax and destress in a healthy way when you really need it
-   * Images related to these topics: 
+   * Images related to these topics: ![](https://static.wixstatic.com/media/d926b9_60e3bf3429e048fdb69dddae3a7cb694~mv2.png/v1/fill/w_200,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/moodfit%20logo.png) ![](https://mobile.va.gov/sites/default/files/image/icons/mindfulness-coach-app-icon.png)
  
 * Physical Health
   * Apps/Gadgets looked into: [My Plate](https://www.myplate.gov/app/shopsimple/desktop), [Move Coach](https://mobile.va.gov/app/move-coach), [Contact len](https://www.fda.gov/medical-devices/consumer-products/contact-lenses), [Respiratory Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/respiratory-devices), [Hearing Aids](https://www.fda.gov/medical-devices/consumer-products/hearing-aids)
