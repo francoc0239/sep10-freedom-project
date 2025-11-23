@@ -20,7 +20,7 @@ Topic: **The Medical Industry**
   * Devices like Contact lenses and haring aids help make peoples lives easier and gives them less problems in their life
   * These apps and devices help people maintian their physcial health by providing them with resoucres and help that they need to be healthy
   * these technologies imapacts peoples health and bodsy by being able to cure,treat, and prevent peoples problems depending on what they have.
-  * Images related to this topic: 
+  * Images related to this topic: ![](https://myplate4chatbot.stg.platform.usda.gov/sites/default/files/2020-12/MyPlate_blue_0.jpg)
 
 ## Part B: Future Technology
 * A personal doctor robot that goes with you wherever you go
