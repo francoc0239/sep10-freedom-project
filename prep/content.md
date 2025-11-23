@@ -29,11 +29,18 @@ Topic: **The Medical Industry**
   * It'll be able to take your temperature
   * It'll be able to take care of you and give you things when you can't move
   * It'll be able to move anywhere at anytime 
-  * It has built in safe AI so it can be up to date 
+  * It has built in safe AI so it can be up to date
+  * The robot will call you by whatever you want
+  * The robot will charge using the sun as its energy source
+  * The robot will also be able to contact the nearest hospital near you
+  * You can call the robot anything you want
+  * When you call the robots name, it will come over.
+    
 
 * A band aid that heals your cuts and bruises very fast 
-  * As you put on a bandaid, it just heals your minor cuts and bruises. 
-  * It could also disinfect your cuts so you won't get sick or infected. 
+  * As you put on a bandaid, it just heals your minor cuts and bruises in 30 seconds and then you can just take it off. 
+  * It could also disinfect your cuts so you won't get sick or infected.
+  * The band aid is really bendable so it wont feel uncomfortable
 
 
 
