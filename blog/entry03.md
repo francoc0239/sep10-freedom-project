@@ -27,7 +27,7 @@ There are some skills that I learned while researching my topic. Some of those s
 ### Organization 
 While researching for Part B, I had to organize my notes in Google Docs so I can understand how my resarch will look on the webpage and to understand my writing. I had to organize my notes in sections so the people will understand how my notes will look. Before organzing my notes, I would just clump all my notes together which made me realize that the notes will be confusing for people to understand. So I organized my research into different parts so it'll be easier for me and the reader to understand. 
 ### How to use my creativity
-For Part B i had to create a new invention that could be used in the future in the medcial industry. 
+For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because im not that creative. So to fix that problem i used AI to give me examples of ideas to create a new and different invention. 
 
 
 Text
