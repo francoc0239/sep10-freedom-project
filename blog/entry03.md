@@ -21,7 +21,14 @@ The robot would be very helpful for people who cant take care of themselves like
 
 The bandaid will be helpful for people who get hurt a lot and for people who want their pain to be healed quick. 
 ## Engineering Design Process 
-After completing the second stage of the Engineering Design Process, I've moved on to the third stage, which is to design and make the actual webpage about my topic. 
+After completing the second stage of the Engineering Design Process, I've moved on to the third stage, which is to organize all my research and brainstorm the solution to my problem that I want people  to recognize. For the third stage, ive been organizing my research by putting them in different catorgies. The catorgies I used is based on physcial health an mental health. Im getting closer to finishing stage 3 and going to stage 4 which is to brainstorm the design of the webpage. 
+## Skills 
+There are some skills that I learned while researching my topic. Some of those skills are **How to organize**, and **How to use my creativity**. 
+### Organization 
+While researching for Part B, I had to organize my notes in Google Docs so I can understand how my resarch will look on the webpage and to understand my writing. I had to organize my notes in sections so the people will understand how my notes will look. Before organzing my notes, I would just clump all my notes together which made me realize that the notes will be confusing for people to understand. So I organized my research into different parts so it'll be easier for me and the reader to understand. 
+### How to use my creativity
+For Part B i had to create a new invention that could be used in the future in the medcial industry. 
+
 
 Text
 
