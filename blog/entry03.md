@@ -19,7 +19,7 @@ The robot would be very helpful for people who cant take care of themselves like
 * The bandaid will also be flexable so it will be comfortable
 * The bandaid will also be able to numb the pain so it won't hurt as much as before
 
-The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. [Here is a link to my Ideas and research](plan.md)  
+The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. [Here is a link to my Ideas and research](prep/plan.md)  
 ## Engineering Design Process 
 After completing the second stage of the Engineering Design Process, I've moved on to the third stage, Which is to start designing the webpage and put all the information that I found on that webpage. But I need  to brainstrom how i want the webpage to look like
 ## Skills 
