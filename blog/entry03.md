@@ -6,7 +6,7 @@
 Since the last blog entry, Ive been researching part B of my topic on the medcial industry. There are two parts to the research, Part A and Part B. Part A is to research medical technology that is used today. Part B is to find or create medcial technology that could be invetned and be used in the future. I finished part A and now im on Part B. While brainstorming for Part B, I used my creativity to invent medcial inventions that could maybe be made. One of the ideas I created was a personal doctor robot that goes with you wherever you go. Here are the features that will go with the robot: 
   * The robot will be able to make you any medicine you need and it'll give you the right amount of medicine everytime.
   * It'll be able to take your temperature
-  * It'll be able to take carec of you and give you things when you can't move
+  * It'll be able to take care of you and give you things when you can't move
   * It'll be able to move anywhere you go at anytime
   * It has built in safe AI so it can be up to date
   * You can name the robot anything you want
@@ -19,9 +19,9 @@ The robot would be very helpful for people who cant take care of themselves like
 * The bandaid will also be flexable so it will be comfortable
 * The bandaid will also be able to numb the pain so it won't hurt as much as before
 
-The bandaid will be helpful for people who get hurt a lot and for people who want their pain to be healed quick. 
+The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. [Here is a link to my Ideas and research](plan.md)  
 ## Engineering Design Process 
-After completing the second stage of the Engineering Design Process, I've moved on to the third stage, which is to organize all my research and brainstorm the solution to my problem that I want people  to recognize. For the third stage, ive been organizing my research by putting them in different catorgies. The catorgies I used is based on physcial health an mental health. Im getting closer to finishing stage 3 and going to stage 4 which is to brainstorm the design of the webpage. 
+After completing the second stage of the Engineering Design Process, I've moved on to the third stage, Which is to start designing the webpage and put all the information that I found on that webpage. But I need  to brainstrom how i want the webpage to look like
 ## Skills 
 There are some skills that I learned while researching my topic. Some of those skills are **How to organize**, and **How to use my creativity**. 
 ### Organization 
