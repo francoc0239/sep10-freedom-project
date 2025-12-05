@@ -18,16 +18,16 @@ The robot would be very helpful for people who cant take care of themselves like
 * It could also disinfect your cuts so you won't get sick or infected.
 * The bandaid will also be flexable so it will be comfortable
 * The bandaid will also be able to numb the pain so it won't hurt as much as before
-
-The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. [Here is a link to my Ideas and research](https://github.com/francoc0239/sep10-freedom-project/blob/main/prep/plan.md)  
+ 
+The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. In order to make these ideas, I used other peoples projects as examples to make up new ideas from them. [Here is a link to my Ideas and research.](https://github.com/francoc0239/sep10-freedom-project/blob/main/prep/content.md)
 ## Engineering Design Process 
-After completing the second stage of the Engineering Design Process, I've moved on to the third stage, Which is to start designing the webpage and put all the information that I found on that webpage. But I need  to brainstrom how i want the webpage to look like
+After completing the second stage of the Engineering Design Process, I've moved on to the third stage, Which is to start designing the app/webpage and put all the information that I found on that webpage. But I need to have time to brainstrom how I want the webpage to look like and I need time to know where the information will go. This plan is important because if i dont brainstrorm or plan, The app/webpage will look weird and no one would like it. 
 ## Skills 
 There are some skills that I learned while researching my topic. Some of those skills are **How to organize**, and **How to use my creativity**. 
 ### Organization 
-While researching for Part B, I had to organize my notes in Google Docs so I can understand how my resarch will look on the webpage and to understand my writing. I had to organize my notes in sections so the people will understand how my notes will look. Before organzing my notes, I would just clump all my notes together which made me realize that the notes will be confusing for people to understand. So I organized my research into different parts so it'll be easier for me and the reader to understand. 
+While researching for Part B, I had to organize my notes in Google Docs so I can understand how my resarch will look on the webpage and to understand my writing. I had to organize my notes in sections so the people will understand how my notes will look. Before organzing my notes, I would just clump all my notes together which made me realize that the notes will be confusing for people to understand. So I organized my research into different parts so it'll be easier for me and the reader to understand. Organization is very helful because without it, I would had forgotten to do the Introduction/Overview of my app/webpage. So now, I will have to organize so I can make sure I dont forget anything.  
 ### How to use my creativity
-For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because im not that creative. So to fix that problem i used AI to give me examples of ideas to create a new and different invention. 
+For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because I am not that creative. So to fix that problem I used other peoples projects to give me examples of ideas to create a new and different invention. The ideas people had in their projects were really good and this made it possible for me to create these ideas. 
 
 
 Text
