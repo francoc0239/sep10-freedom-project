@@ -30,8 +30,6 @@ While researching for Part B, I had to organize my notes in Google Docs so I can
 For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because I am not that creative. So to fix that problem I used other peoples projects to give me examples of ideas to create a new and different invention. The ideas people had in their projects were really good and this made it possible for me to create these ideas. Even thought they didn't have the same topic as mine, I was still able to take away some of their ideas and made it different and my own to fit it in my topic. 
 
 
-Text
-
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
