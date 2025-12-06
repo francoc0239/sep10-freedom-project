@@ -13,7 +13,7 @@ Since the last blog entry, Ive been researching part B of my topic on the medcia
   * You will have to put the robot in sleep mode for it to charge
   * The robot is very cosumizable
 
-The robot would be very helpful for people who cant take care of themselves like disabled people, and eldery people. There is another invention that i created which is a band aid that heals your cuts and  bruises very fast. Here are the features that will go with the band aid:
+The robot would be very helpful for people who cant take care of themselves like disabled people, and eldery people. There is another invention that I created which is a band aid that heals your cuts and  bruises very fast. Here are the features that will go with the band aid:
 * As you put on a bandaid, it heals your minor cuts and bruises in less than 5 seconds.
 * It could also disinfect your cuts so you won't get sick or infected.
 * The bandaid will also be flexable so it will be comfortable
@@ -27,7 +27,7 @@ There are some skills that I learned while researching my topic. Some of those s
 ### Organization 
 While researching for Part B, I had to organize my notes in Google Docs so I can understand how my resarch will look on the webpage and to understand my writing. I had to organize my notes in sections so the people will understand how my notes will look. Before organzing my notes, I would just clump all my notes together which made me realize that the notes will be confusing for people to understand. So I organized my research into different parts so it'll be easier for me and the reader to understand. Organization is very helful because without it, I would had forgotten to do the Introduction/Overview of my app/webpage. So now, I will have to organize so I can make sure I dont forget anything.  
 ### How to use my creativity
-For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because I am not that creative. So to fix that problem I used other peoples projects to give me examples of ideas to create a new and different invention. The ideas people had in their projects were really good and this made it possible for me to create these ideas. 
+For Part B I had to create a new invention that could be used in the future in the medcial industry. It was very hard to create new ideas because I am not that creative. So to fix that problem I used other peoples projects to give me examples of ideas to create a new and different invention. The ideas people had in their projects were really good and this made it possible for me to create these ideas. Even thought they didn't have the same topic as mine, I was still able to take away some of their ideas and made it different and my own to fit it in my topic. 
 
 
 Text
