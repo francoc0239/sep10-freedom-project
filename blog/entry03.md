@@ -19,7 +19,7 @@ The robot would be very helpful for people who cant take care of themselves like
 * The bandaid will also be flexable so it will be comfortable
 * The bandaid will also be able to numb the pain so it won't hurt as much as before
  
-The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. In order to make these ideas, I used other peoples projects as examples to make up new ideas from them. [Here is a link to my Ideas and research.](https://github.com/francoc0239/sep10-freedom-project/blob/main/prep/content.md)
+The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. In order to make these ideas, I used other peoples projects and ideas as examples to make up new ideas from them. [Here is a link to the document that inspired me with my ideas.](https://docs.google.com/document/d/1Ey3sYPN4Rb_mvInMqPzlkDKUT8tCREaYln2ggvvZZW8/preview?tab=t.0) and I put the new ideas and research for part A and B [here](https://github.com/francoc0239/sep10-freedom-project/blob/main/prep/content.md)
 ## Engineering Design Process 
 After completing the second stage of the Engineering Design Process, I've moved on to the third stage, Which is to start designing the app/webpage and put all the information that I found on that webpage. But I need to have time to brainstrom how I want the webpage to look like and I need time to know where the information will go. This plan is important because if i dont brainstrorm or plan, The app/webpage will look weird and no one would like it. 
 ## Skills 
