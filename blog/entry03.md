@@ -4,20 +4,22 @@
 ##### 12/01/25
 ## What have I been doing? 
 Since the last blog entry, Ive been researching part B of my topic on the medcial industry. There are two parts to the research, Part A and Part B. Part A is to research medical technology that is used today. Part B is to find or create medcial technology that could be invetned and be used in the future. I finished part A and now im on Part B. While brainstorming for Part B, I used my creativity to invent medcial inventions that could maybe be made. One of the ideas I created was a personal doctor robot that goes with you wherever you go. Here are the features that will go with the robot: 
-  * The robot will be able to make you any medicine you need and it'll give you the right amount of medicine everytime.
-  * It'll be able to take your temperature
-  * It'll be able to take care of you and give you things when you can't move
-  * It'll be able to move anywhere you go at anytime
-  * It has built in safe AI so it can be up to date
-  * You can name the robot anything you want
-  * You will have to put the robot in sleep mode for it to charge
-  * The robot is very cosumizable
+  * The robot will be able to make you any medicine you need and it'll give you the right amount of medicine everytime
+    * It'll be able to take your temperature
+    * It'll be able to take care of you and give you things when you can't move
+    * It'll be able to move anywhere you go at anytime
+    * It has built in safe AI so it can be up to date
+    * You can name the robot anything you want
+    * You will have to put the robot in sleep mode for it to charge
+    * The robot is very cosumizable
+   !  [robot](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZhh4356TmkSbp1f5zGBOrx8uTCx6XJFg7bYPlzbDlYwKDgV3m)
+
 
 The robot would be very helpful for people who cant take care of themselves like disabled people, and eldery people. There is another invention that I created which is a band aid that heals your cuts and  bruises very fast. Here are the features that will go with the band aid:
 * As you put on a bandaid, it heals your minor cuts and bruises in less than 5 seconds.
-* It could also disinfect your cuts so you won't get sick or infected.
-* The bandaid will also be flexable so it will be comfortable
-* The bandaid will also be able to numb the pain so it won't hurt as much as before
+  * It could also disinfect your cuts so you won't get sick or infected.
+  * The bandaid will also be flexable so it will be comfortable
+  * The bandaid will also be able to numb the pain so it won't hurt as much as before
  
 The bandaid will be helpful for people who get hurt a lot or move around a lot and for people who want their pain to be healed quick. In order to make these ideas, I used other peoples projects and ideas as examples to make up new ideas from them. [Here is a link to the document that inspired me with my ideas.](https://docs.google.com/document/d/1Ey3sYPN4Rb_mvInMqPzlkDKUT8tCREaYln2ggvvZZW8/preview?tab=t.0) and I put the new ideas and research for part A and B [here](https://github.com/francoc0239/sep10-freedom-project/blob/main/prep/content.md)
 ## Engineering Design Process 
