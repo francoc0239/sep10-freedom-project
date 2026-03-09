@@ -1,6 +1,6 @@
 # Entry 3
 # SEP10 Freedom Project 
-# Entry 2: Finishing up my research (The Medcial Industry) 
+# Entry 3: Finishing up my research (The Medcial Industry) 
 ##### 12/01/25
 ## What have I been doing? 
 Since the last blog entry, Ive been researching part B of my topic on the medcial industry. There are two parts to the research, Part A and Part B. Part A is to research medical technology that is used today. Part B is to find or create medcial technology that could be invetned and be used in the future. I finished part A and now im on Part B. While brainstorming for Part B, I used my creativity to invent medcial inventions that could maybe be made. One of the ideas I created was a personal doctor robot that goes with you wherever you go. Here are the features that will go with the robot: 
