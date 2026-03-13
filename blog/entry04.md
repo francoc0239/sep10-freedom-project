@@ -30,6 +30,7 @@ function App() {
 export default App;
 
 ```
+I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other 
 ## Skills
 
 
