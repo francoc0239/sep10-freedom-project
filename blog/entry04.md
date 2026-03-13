@@ -31,7 +31,12 @@ export default App;
 
 ```
 I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other 
+
+
 ## Skills
+There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
+### How to Learn
+While trying to teach myself how to use ReactJS, I had to...
 
 
 [Previous](entry03.md) | [Next](entry05.md)
