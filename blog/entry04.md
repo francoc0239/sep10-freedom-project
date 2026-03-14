@@ -30,13 +30,15 @@ function App() {
 export default App;
 
 ```
-I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other 
+I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other resources like google to help me what to download or update in my IDE. How I tinkers with React by making a new folder that is in its own seprate folder. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. 
 
 
 ## Skills
 There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
 ### How to Learn
-While trying to teach myself how to use ReactJS, I had to...
+While trying to teach myself how to use ReactJS, I had to learn new topics on my own in order to be sucessful in my coding journey. What I did to learn is I tinkered with the ideas I learned from my vidoes and resources and I tried to put it all together to make it into a mini webpage. This was hard because I had a lot of errors that I had to fix. So I found more resources to help me out, like google. Google is very good when you want to learn new things. When I put my code into Google, they told me that my code didnt have a export connected to it so the code had no where to go. I added a export near my code and it worked. I used my resources to learn something new on my own. What I learned is that my code always needs a export near it in order for the file or app to get it. This made me realize that I love learning on my own by using the internet. Learning on my own allows me to do anything I want and see if it works or doesn't. 
+### Embracing Failure
+
 
 
 [Previous](entry03.md) | [Next](entry05.md)
