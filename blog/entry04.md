@@ -3,7 +3,7 @@
 # Entry 4: Picking my tool 
 ##### 3/9/26
 ## What have I been doing?
-Since the last blog entry, Ive been tinkering with my tool. The tool I picked was [React.dev](https://react.dev/). React is a program that helps users build components like a Thunmbnail and allows you to put all your components in a webpage to make it look good. React uses some parts of JavaScript and HTML which makes it easier to learn. React uses parts like function from JavaScript and you have to put HTMl inside the JavaScript. Here is an example of some React code that I made that I made but was based on a video that I will show to you later. 
+Since the last blog entry, Ive been tinkering with my tool. The tool I picked was [React.dev](https://react.dev/). React is a program that helps users build components like a Thunmbnail and allows you to put all your components in a webpage to make it look good. React uses some parts of JavaScript and HTML which makes it easier to learn. React uses parts like function from JavaScript and you have to put HTMl inside the JavaScript. Here is an example of some React code that I made that was based on videos that I will show to you later. 
 ```jsx
 
 
@@ -30,7 +30,7 @@ function App() {
 export default App;
 
 ```
-This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk) to help me learn how to make the code that you seen before this. I also used another video like [This one](https://www.youtube.com/watch?v=G6D9cBaLViA) that also helped me. I also tried out other resources like [Google](https://www.google.com/?safe=active&ssui=on&zx=1773531250377&no_sw_cr=1) to help me what to download or update in my IDE. How I tinkered with React by making a new folder just for react. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The videos I showed you showed me how to make a list that is clickable by using React. Here is what it showed us 
+This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk) to help me learn how to make the code that you seen before this. I also used another video like [This one](https://www.youtube.com/watch?v=G6D9cBaLViA) that also helped me. I also tried out other resources like [Google](https://www.google.com/?safe=active&ssui=on&zx=1773531250377&no_sw_cr=1) to help show me what to download or update in my IDE. Google also allowed my questions to be ansered. How I tinkered with React by making a new folder just for react. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The videos I showed you showed me how to make a list that is clickable by using React. Here is what it showed us 
 ```jsx
 import { useState } from "react";
 
@@ -66,7 +66,7 @@ function ListGroup() {
 export default ListGroup;
 
 ```
-This is code allows us to make a list that is able to be selected based on the one you picked. To connect this code to the wepage we have another file and it has this 
+This is code allows us to make a list that is able to be selected based on the one you picked. To connect this code to the wepage we have another file and it has to have an import in order for it to get the code. This is how its supposed to look.
 ```jsx
 import ListGroup from "./components/ListGroup"
 
@@ -117,7 +117,7 @@ function ListGroup() {
 export default ListGroup;
 
 ```
-This is the code that has the list. Now we need to connect it to the actual webpage. This is how the code looks for the webpage. 
+This is the code that has the list. Now we need to connect it to the actual webpage by using import and export. This is how the code looks for the webpage. 
 ```jsx
 import ListGroup from "./components/ListGroup"
 import './App.css';
