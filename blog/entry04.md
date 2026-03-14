@@ -30,7 +30,7 @@ function App() {
 export default App;
 
 ```
-This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other resources like google to help me what to download or update in my IDE. How I tinkered with React by making a new folder that is in its own seprate folder. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The video I showed you showed me how to make a list that is clickable by using React. Here is what he showed us 
+This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other resources like google to help me what to download or update in my IDE. How I tinkered with React by making a new folder just for react. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The video I showed you showed me how to make a list that is clickable by using React. Here is what he showed us 
 ```jsx
 import { useState } from "react";
 
@@ -131,11 +131,13 @@ function App() {
 export default App;
 
 ```
-I didnt learn How to add CSS into the file, So i tried different ways to add CSS and it work. The background is orange. This is how it looks. 
+I didnt learn How to add CSS into the file, So i tried different ways to add CSS and it work. The background is orange and this is how it looks. 
 
 ![img](../images/Screenshot%202026-03-14%207.18.56%20PM.png)
 
-Im very proud because i was able to add CSS on my own. Another way i was able to Tinker with React is by using Google. Google allowed me to answer my questions that I still had because I didnt completly understand everything. 
+Im very proud because i was able to add CSS on my own. Another way i was able to Tinker with React is by using Google. Google allowed me to answer my questions that I still had because I didnt completly understand everything. Some questions I had were like "what does the function do for my code?", " How do I add another line of code?". These questions that Google answered allow me to understand how React works.
+## EDP
+
 ## Skills
 There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
 ### How to Learn
