@@ -3,7 +3,7 @@
 # Entry 4: Picking my tool 
 ##### 3/9/26
 ## What have I been doing?
-Since the last blog entry, Ive been tinkering with my tool. The tool I picked was [React.dev](https://react.dev/). React is a program that helps users build components like a Thunmbnail and allows you to put all your components in a webpage to make it look good. React uses some parts of JavaScript and HTML which makes it easier to learn. React uses parts like function from JavaScript and you have to put HTMl inside the JavaScript. Here is an example of some React code. 
+Since the last blog entry, Ive been tinkering with my tool. The tool I picked was [React.dev](https://react.dev/). React is a program that helps users build components like a Thunmbnail and allows you to put all your components in a webpage to make it look good. React uses some parts of JavaScript and HTML which makes it easier to learn. React uses parts like function from JavaScript and you have to put HTMl inside the JavaScript. Here is an example of some React code that I made. 
 ```jsx
 
 
