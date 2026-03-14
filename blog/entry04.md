@@ -81,8 +81,61 @@ export default App;
 ```
 This is how the code looked in preview mode. 
 ![img](../images/list.png)
-After I leaned how to make a list on my own, I decied to actually tinker with the code and make it into something that I made. I decied I will make my own list using my own things. Here is the code of my tinkering. 
+After I leaned how to make a list on my own, I decied to actually tinker and add my own content with the code that he showed us and make it into something that I made. I decied I will make my own list using my own things. What I planned to do it to make it look the same, just add background and add a list with a lot of things. Here is the code 
+```jsx
+import { useState } from "react";
 
+function ListGroup() {
+  let items = ["Shirlir", "I love apples", "Please work code."];
+  const [selectedIndex, setSelectedIndex]= useState(-1);
+
+
+  return (
+    <>
+      <h1>LIST</h1>
+      {items.length === 0 && <p>No item found</p>}
+      <ul className="list-group">
+        {items.map((item, index) => (
+          <li
+            className={
+              selectedIndex === index
+                ? "list-group-item active"
+                : "list-group-item"
+            }
+            key={item}
+            onClick={() => {setSelectedIndex(index);}}
+          >
+            {item}
+          </li>
+        ))}
+      </ul>
+
+    </>
+  );
+}
+
+export default ListGroup;
+
+```
+This is the code that has the list. Now we need to connect it to the actual webpage. This is how the code looks for the webpage. 
+```jsx
+import ListGroup from "./components/ListGroup"
+import './App.css';
+
+
+function App() {
+
+  return <div className="apple"><ListGroup /></div>;
+}
+
+export default App;
+
+```
+I didnt learn How to add CSS into the file, So i tried different ways to add CSS and it work. The background is orange. This is how it looks. 
+
+![img](../images/Screenshot%202026-03-14%207.18.56%20PM.png)
+
+Im very proud because i was able to add CSS on my own. Another way i was able to Tinker with React is by using Google. Google allowed me to answer my questions that I still had because I didnt completly understand everything. 
 ## Skills
 There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
 ### How to Learn
