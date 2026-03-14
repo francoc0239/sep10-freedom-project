@@ -19,19 +19,69 @@ export default Message;
 ```
 
 ```jsx 
-import ListGroup from "./components/ListGroup"
+import ListGroup from ".Message"
 
 
 function App() {
 
-  return <div><ListGroup /></div>; 
+  return <div><Message /></div>; 
 }
 
 export default App;
 
 ```
-I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other resources like google to help me what to download or update in my IDE. How I tinkers with React by making a new folder that is in its own seprate folder. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. 
+This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk). I also tried out other resources like google to help me what to download or update in my IDE. How I tinkered with React by making a new folder that is in its own seprate folder. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The video I showed you showed me how to make a list that is clickable by using React. Here is what he showed us 
+```jsx
+import { useState } from "react";
 
+function ListGroup() {
+  let items = ["New York", "San Francisco", "Tokyo"];
+  const [selectedIndex, setSelectedIndex]= useState(-1);
+
+
+  return (
+    <>
+      <h1>LIST</h1>
+      {items.length === 0 && <p>No item found</p>}
+      <ul className="list-group">
+        {items.map((item, index) => (
+          <li
+            className={
+              selectedIndex === index
+                ? "list-group-item active"
+                : "list-group-item"
+            }
+            key={item}
+            onClick={() => {setSelectedIndex(index);}}
+          >
+            {item}
+          </li>
+        ))}
+      </ul>
+      <h1>I love apples</h1>
+    </>
+  );
+}
+
+export default ListGroup;
+
+```
+This is code allows us to make a list that is able to be selected based on the one you picked. To connect this code to the wepage we have another file and it has this 
+```jsx
+import ListGroup from "./components/ListGroup"
+
+
+function App() {
+
+  return <div><ListGroup /><ListGroup /></div>;
+}
+
+export default App;
+
+```
+This is how the code looked in preview mode. 
+![img](../images/list.png)
+After I leaned how to make a list on my own, I decied to actually tinker with the code and make it into something that I made. I decied I will make my own list using my own things. Here is the code of my tinkering. 
 
 ## Skills
 There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
