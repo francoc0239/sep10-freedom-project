@@ -30,7 +30,7 @@ function App() {
 export default App;
 
 ```
-This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk) to help me learn how to make the code that you seen before this. I also used another video like [This one](https://www.youtube.com/watch?v=G6D9cBaLViA) that also helped me. I also tried out other resources like [Google](https://www.google.com/?safe=active&ssui=on&zx=1773531250377&no_sw_cr=1) to help show me what to download or update in my IDE. Google also allowed my questions to be ansered. How I tinkered with React by making a new folder just for react. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The videos I showed you showed me how to make a list that is clickable by using React. Here is what it showed us 
+This code basically allows you to see your name if they know its you. I didnt learn this by myself, I had some resources to help me understand what React is, how it works, and how to set it in my IDE. I used vidoes like [This one](https://www.youtube.com/watch?v=SqcY0GlETPk) to help me learn how to make the code that you seen before this. I also used another video like [This one](https://www.youtube.com/watch?v=G6D9cBaLViA) that also helped me. I also tried out other resources like [Google](https://www.google.com/?safe=active&ssui=on&zx=1773531250377&no_sw_cr=1) to help show me what to download or update in my IDE. Google also allowed my questions to be answered. How I tinkered with React by making a new folder just for React. This allows me to only see React and nothing else so I wont get distracted or confused where to cd into. The videos I showed you showed me how to make a list that is clickable by using React. Here is what it showed us 
 ```jsx
 import { useState } from "react";
 
@@ -66,7 +66,7 @@ function ListGroup() {
 export default ListGroup;
 
 ```
-This is code allows us to make a list that is able to be selected based on the one you picked. To connect this code to the wepage we have another file and it has to have an import in order for it to get the code. This is how its supposed to look.
+This is code allows us to make a list that is able to be selected based on the one you clicked. To connect this code to the wepage, we have to have a webpage file and it has to have an import in order for it to get the code. This is how its supposed to look.
 ```jsx
 import ListGroup from "./components/ListGroup"
 
@@ -81,7 +81,7 @@ export default App;
 ```
 This is how the code looked in preview mode. 
 ![img](../images/list.png)
-After I leaned how to make a list based on the videos, I decied to actually tinker and add my own content with the code that they showed us and make it into something that I made. I decied I will make my own list using my own things. What I planned to do it to make it look the same, just add background and add a list with a lot of things. Here is the code 
+After I learned how to make a list based on the videos, I decied to actually tinker and add my own content with the code that they showed us and make it into something that I made. I decied I will make my own list using my own things. What I planned to do it to make it look the same, just add background and add a list with a lot of things. Here is the code 
 ```jsx
 import { useState } from "react";
 
@@ -117,7 +117,7 @@ function ListGroup() {
 export default ListGroup;
 
 ```
-This is the code that has the list. Now we need to connect it to the actual webpage by using import and export. This is how the code looks for the webpage. 
+This is the code that has the list. Now we need to connect it to the actual webpage by using import and export. This is how the code looks for the webpage file. 
 ```jsx
 import ListGroup from "./components/ListGroup"
 import './App.css';
@@ -131,7 +131,7 @@ function App() {
 export default App;
 
 ```
-I didnt learn How to add CSS into the file, So i tried different ways to add CSS and it work. The background is orange and this is how it looks. 
+I didnt learn How to add CSS into the file, So I tried different ways to add CSS and it work. The background is orange and this is how it looks. 
 
 ![img](../images/Screenshot%202026-03-14%207.18.56%20PM.png)
 
@@ -141,9 +141,9 @@ After Starting to learn how to use React, My next plan is to keep on improving i
 ## Skills
 There are some skills that I learned while researching my topic. Some of those skill are **How to Learn**,  and **Embracing Failure**. 
 ### How to Learn
-While trying to teach myself how to use ReactJS, I had to learn new topics on my own in order to be sucessful in my coding journey. What I did to learn is I tinkered with the ideas I learned from my vidoes and resources and I tried to put it all together to make it into a mini webpage. From the examples i showed you, Tinkering with the coe worked. However, It was hard because I had a lot of errors that I had to fix. So I found more resources to help me out, like google. Google is very good when you want to learn new things. When I put my code into Google, they told me that my code didn't have a export connected to it so the code had no where to go. I added a export near my code and it worked. After that, I told myself to try to not forgot to add a export near my code. This demostrates that I used my resources to learn something new on my own. What I learned is that my code always needs a export near it in order for the file or app to get it. This made me realize that I love learning on my own by using the internet. Learning on my own allows me to do anything I want and see if it works or doesn't. 
+While trying to teach myself how to use ReactJS, I had to learn new topics on my own in order to be sucessful in my coding journey. What I did to learn is I tinkered with the ideas I learned from my vidoes and resources and I tried to put it all together to make it into a mini webpage. From the examples i showed you, Tinkering with the code worked. However, It was hard because I had a lot of errors that I had to fix. So I found more resources to help me out, like google. Google is very good when you want to learn new things. When I put my code into Google, they told me that my code didn't have a export connected to it so the code had no where to go. I added a export near my code and it worked. After that, I told myself to try to not forgot to add a export near my code. This demostrates that I used my resources to learn something new on my own. What I learned is that my code always needs a export near it in order for the file or app to get it. This made me realize that I love learning on my own by using the internet. Learning on my own allows me to do anything I want and see if it works or doesn't. 
 ### Embracing Failure
-While learning a new thing, Everyone makes mistakes. Its a noraml thing to make mistakes, what matters is how to respond to those mistakes. While trying to learn React Ive gotten a few of erorrs that I didn't understand. Usually i would have just called it a day and given up. But I knew I had work to finish, so I kept on going. What I did is I didnt let the errors bother me. If I made mistakes or if my code didnt work, I just calm down and tried to fix the problem on my own or use Google to help me. One example is when trying to add the CSS into my webpage, I kept getting errors because I didnt know how to, I kept trying until I eventually got the code right and I felt very proud of myself. I used google when my Preview was updating. I was so confused and mad because my code was correct, but the preview wasn't showing up. What I searched up is, "How do i make my preview update." Google told me to activate, "Auto Save" in order for my changes to show. It worked and I felt very happy that I didn't give up. This is when I learned that Embracsing Failure is better then just giving up. 
+While learning a new thing, Everyone makes mistakes. Its a noraml thing to make mistakes, what matters is how to respond to those mistakes. While trying to learn React Ive gotten a few of erorrs that I didn't understand. Usually I would have just called it a day and given up. But I knew I had work to finish, so I kept on going. What I did is I didnt let the errors bother me. If I made mistakes or if my code didnt work, I just calmed down and tried to fix the problem on my own or use Google to help me. One example is when trying to add the CSS into my webpage, I kept getting errors because I didnt know how to. But I didn't give up and I kept trying until I eventually got the code right and I felt very proud of myself. I used Google when my Preview wasn't updating. I was so confused and mad because my code was correct, but the preview wasn't showing up. What I searched up is, "How do I make my preview update on time." Google told me to activate, "Auto Save" in order for my changes to show. It worked and I felt very happy that I didn't give up. This is when I learned that Embracsing Failure is better then just giving up. 
 
 
 
