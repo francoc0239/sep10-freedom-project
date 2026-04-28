@@ -1,11 +1,17 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+### Mobile
+* ![Mobile](phone.png)
+### Desktop
+* ![Desktop](big.png)
 
 ## Colors
-* `#ABC123`
+* #0081A7
+* #00AFB9
+* #FDFCDC
+* #FED9B7
+* #F07167
 
 ## Fonts
 * [Text](URL)
@@ -29,7 +35,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
