@@ -26,3 +26,12 @@
     "vite": "^8.0.10"
   }
 }
+
+{
+  "homepage": "https://{username}.github.io/{repo-name}/{subfolder-name}",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
+
