@@ -3,6 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://francoc0239.github.io/sep10-freedom-project/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,11 +33,5 @@
   }
 }
 
-{
-  "homepage": "https://{username}.github.io/{repo-name}/{subfolder-name}",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
+
 
