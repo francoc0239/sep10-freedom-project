@@ -3,17 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://francoc0239.github.io/sep10-freedom-project/",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
+  "homepage": "https://francoc0239.github.io/sep10-freedom-project/sep10-freedom-project-Code",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
@@ -32,6 +29,3 @@
     "vite": "^8.0.10"
   }
 }
-
-
-
