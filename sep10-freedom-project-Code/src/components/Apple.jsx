@@ -14,7 +14,7 @@ function Caresol() {
 
               <div className="carousel-item active">
                 <img src="/* replace images */" className="d-block w-100" alt="..." />
-                  <h1 className="text-center black abc">{/* add anything here */}</h1>
+                  <h1 className="text-center abc">{/* add anything here */}</h1>
               </div>
 
               <div className="carousel-item">
@@ -24,7 +24,7 @@ function Caresol() {
 
               <div className="carousel-item">
                 <img src="../img/balloon-3.jpg" className="d-block w-100" alt="..." />
-                  <h1 className="text-center black abc"> {/* add anything here */}.</h1>
+                  <h1 className="text-center abc"> {/* add anything here */}.</h1>
               </div>
 
               <div className="carousel-item">
@@ -34,7 +34,7 @@ function Caresol() {
 
               <div className="carousel-item">
                 <img src="../img/balloon-5.jpg" className="d-block w-100" alt="..." />
-                  <h1 className="title  black abc">{/* add anything here */}</h1>
+                  <h1 className="title abc">{/* add anything here */}</h1>
               </div>
 
               <div className="carousel-item">

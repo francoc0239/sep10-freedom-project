@@ -1,16 +1,16 @@
+import "bootstrap/dist/css/bootstrap.min.css"; // Bootstrap loads first
+import "./App.css"; // Your styles now have the final word
+
 import { useState } from "react";
-import "./App.css";
 import { Caresol } from "./components/Apple";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 
 function App() {
   return (
-    <>
-    <body>
+    <div>
       <Caresol />
-      <h1>knkerfkenkefnkefnkefnmekm</h1>
-      </body>
-    </>
+      <h1 className="apple">knkerfkenkefnkefnkefnmekm</h1>
+    </div>
   );
 }
 

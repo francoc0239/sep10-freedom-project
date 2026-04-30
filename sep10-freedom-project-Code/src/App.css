@@ -1,6 +1,9 @@
+
 body{
-    background-color:black;
+    background-color:blue ;
 }
-h1{
-    text-align:center;
+.apple{
+    text-align:left;
+    color:white !important;
+    font-family:monospace;
 }
