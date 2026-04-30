@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://francoc0239.github.io/sep10-freedom-project/sep10-freedom-project-Code",
+  "homepage": "https://francoc0239.github.io/sep10-freedom-project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
