@@ -10,7 +10,6 @@ function App() {
     <div classname="container-fluid">
       <div className="row">
         <div className="col-sm-12">
-          <h1 className="title">The Medical Industry</h1>
           <Caresol />
         </div>
       </div>
