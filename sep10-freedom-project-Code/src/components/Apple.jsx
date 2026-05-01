@@ -15,34 +15,42 @@ function Caresol() {
                 <div className="carousel-item active">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
                   <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
+                    <h1 className="title">Medical Industry</h1>
                   </div>
                 </div>
 
                 <div className="carousel-item">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100 size" alt="..." />
-                  <h1 className="text-center">{/* add anything here */}</h1>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
                 </div>
 
                 <div className="carousel-item">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <h1 className="text-center abc"> {/* add anything here */}.</h1>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
                 </div>
 
                 <div className="carousel-item">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <h1 className="text-center title abc">{/* add anything here */}</h1>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
+                </div>
+                <div className="carousel-item">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
                 </div>
 
                 <div className="carousel-item">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <h1 className="title abc">{/* add anything here */}</h1>
-                </div>
-
-                <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <h1 className="title black abc">{/* add anything here */}</h1>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
                 </div>
               </div>
               <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
