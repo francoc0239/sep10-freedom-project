@@ -10,7 +10,10 @@ import { LoadingScreen } from "./components/Loading";
 function App() {
   return (
     <>
-    <LoadingScreen /> 
+    <LoadingScreen>
+      <img src="../images/Shirlie1.png" alt="Loading..." id="loading-image" />
+      <p style="margin-top: 20px; color: #555;">Preparing your experience...</p>
+    </LoadingScreen>
           <Caresol />
           <Nav />
           <Content />

@@ -1,66 +1,17 @@
-import React, { useState, useEffect } from 'react';
+// Use the 'load' event to wait for the whole page (images, scripts, etc.)
+        window.addEventListener('load', function() {
+            const loader = document.getElementById('loading-screen');
 
-const LoadingScreen: React.FC = () => {
-  const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [fadeOut, setFadeOut] = useState<boolean>(false);
+            // Set your artificial delay (3000ms = 3 seconds)
+            const minimumDelay = 2500;
 
-  useEffect(() => {
-    const fetchData = async () => {
-      await new Promise(resolve => setTimeout(resolve, 2000));
-      setFadeOut(true);
-      setTimeout(() => {
-        setIsLoading(false);
-      }, 500);
-    };
-    fetchData();
-  }, []);
+            setTimeout(() => {
+                // Smoothly fade out the loader
+                loader.style.opacity = '0';
+                                // Completely remove the loader from the DOM after the fade finishes
+                setTimeout(() => {
+                    loader.style.display = 'none';
+                }, 800); // Matches the CSS transition time (0.8s)
 
-  if (!isLoading) {
-    return null;
-  }
-
-  return (
-    <div
-      style={{
-        position: 'fixed',
-        top: 0,
-        left: 0,
-        width: '100%',
-        height: '100%',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: 'lightpink',
-        zIndex: 9999,
-        flexDirection: 'column',
-        opacity: fadeOut ? 0 : 1,
-        transition: 'opacity 0.5s ease',
-      }}
-    >
-      {/* Loader animation */}
-      <div style={{
-        border: '8px solid #f3f3f3',
-        borderTop: '8px solid #3498db',
-        borderRadius: '50%',
-        width: '60px',
-        height: '60px',
-        animation: 'spin 1s linear infinite',
-      }} />
-
-      {}
-      <div style={{ marginTop: '20px', fontSize: '20px' }}>Loading...</div>
-
-      {}
-      <style>
-        {`
-          @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-          }
-        `}
-      </style>
-    </div>
-  );
-};
-
-export {LoadingScreen}
+            }, minimumDelay);
+        });
