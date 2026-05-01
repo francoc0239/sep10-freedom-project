@@ -14,41 +14,41 @@ function Caresol() {
 
                 <div className="carousel-item active">
                   <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
+                  <div class="carousel-caption d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
+                </div>
+
+                <div className="carousel-item ">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 size img-fluid custom-img" alt="..." />
+                  <div class="carousel-caption d-md-block">
                     <h1 className="title">Medical Industry</h1>
                   </div>
                 </div>
 
                 <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 size" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
+                  <div class="carousel-caption d-md-block">
                     <h1 className="title">Medical Industry</h1>
                   </div>
                 </div>
 
                 <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
+                  <div class="carousel-caption d-md-block">
+                    <h1 className="title">Medical Industry</h1>
+                  </div>
+                </div>
+                <div className="carousel-item">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
+                  <div class="carousel-caption d-md-block">
                     <h1 className="title">Medical Industry</h1>
                   </div>
                 </div>
 
                 <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
-                    <h1 className="title">Medical Industry</h1>
-                  </div>
-                </div>
-                <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
-                    <h1 className="title">Medical Industry</h1>
-                  </div>
-                </div>
-
-                <div className="carousel-item">
-                  <img src="https://picsum.photos/1920/1080" className="d-block w-100" alt="..." />
-                  <div class="carousel-caption d-none d-md-block">
+                  <img src="https://picsum.photos/1920/1080" className="d-block w-100 img-fluid custom-img" alt="..." />
+                  <div class="carousel-caption d-md-block">
                     <h1 className="title">Medical Industry</h1>
                   </div>
                 </div>

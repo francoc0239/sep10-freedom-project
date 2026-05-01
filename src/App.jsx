@@ -7,18 +7,11 @@ import { Nav } from "./components/Nav";
 
 function App() {
   return (
-    <div classname="container-fluid">
-      <div className="row">
-        <div className="col-sm-12">
+    <>
           <Caresol />
-        </div>
-      </div>
-      <div className="row">
-        <div classname="col-sm-12">
           <Nav />
-        </div>
-      </div>
-    </div>
+          </>
+
   );
 }
 
