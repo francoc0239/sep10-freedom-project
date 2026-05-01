@@ -5,6 +5,7 @@ import { useState } from "react";
 import { Caresol } from "./components/Apple";
 import { Nav } from "./components/Nav";
 import { Content } from "./components/Content";
+import { LoadingScreen } from "./components/Loading"; 
 
 function App() {
   return (
