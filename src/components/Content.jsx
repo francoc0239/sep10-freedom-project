@@ -8,6 +8,8 @@ function Content(){
         <>
         <h1 className="text-center"> The Medical Industry</h1>
         
+
+
         </>
 
     );
