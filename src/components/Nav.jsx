@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Nav() {
   return (
     <>
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
+    <nav className="navbar navbar-expand-lg sticky-top bg-body-tertiary">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">The Medcial Industry</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
