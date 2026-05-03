@@ -63,7 +63,7 @@ function Content() {
                     <div className="row">
                         <div className="col-sm-12 col-md-6">
                             <div id="one" />
-                            <div className="card mb-3">
+                            <div className="card mb-4">
                                                                 <div
                                     id="carouselExample"
                                     className="carousel slide"
