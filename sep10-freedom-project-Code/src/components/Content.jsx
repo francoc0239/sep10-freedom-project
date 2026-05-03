@@ -46,7 +46,7 @@ function Content() {
                                 </div>
 
 
-                                    <div className="card-body up-2">
+                                    <div className="card-body up-2 #context">
                                         <h4 className="card-title">Context</h4>
                                         <p className="card-text">The Medical Industry is everything related to Medcial products, Medical buildings, Health insurance, and jobs like; doctors, hospitals, and nurses. Technology has and always will be ingraved in the sucess of the Medcial Industry because of the big impact is has. Some examples are equipment like foil blankets, gauze, CT scanners, Bandges. These different types of equipment would not be here without technology.</p>
                                     </div>
@@ -92,7 +92,7 @@ function Content() {
                                     </div>
                                 </div>
 
-                                <div className="card-body up">
+                                <div className="card-body up #one">
                                     <h3 className="card-title">Pt A: Existing technology</h3>
                                     <br />
                                     <h4 className="card-title">Mental Health</h4>
@@ -149,7 +149,7 @@ function Content() {
                                     </div>
                                 </div>
 
-                                <div className="card-body up">
+                                <div className="card-body up #two">
                                     <h3 className="card-title">Pt B: Future Technology</h3>
                                     <br />
                                     <p className="card-text">There are many things that could be made in the far future in order to improve peoples health. There are many ideas too that we could make. Maybe in the near future we could find new discovieers to make these ideas possible. Here are some things that could be made with  future technology </p>
