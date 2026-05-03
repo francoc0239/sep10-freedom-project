@@ -14,6 +14,7 @@ function Content() {
                     <div className="container-fluid">
                         <div className="row justify-content-center">
                             <div className="col-sm-12 col-md-7">
+                                <div id="context" />
                                 <div className="card md-3">
                                     <div
                                     id="carouselExample"
@@ -61,6 +62,7 @@ function Content() {
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-sm-12 col-md-6">
+                            <div id="one" />
                             <div className="card mb-3">
                                                                 <div
                                     id="carouselExample"

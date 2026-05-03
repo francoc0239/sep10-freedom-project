@@ -9,7 +9,8 @@ function Caresol() {
       <div className="container-fluid p-0">
         <div className="row g-0">
           <div className="col-sm-12 col-md-12 col-lg-12">
-            <div id="carouselExampleAutoplaying #home" className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+            <div id="home" />
+            <div id="carouselExampleAutoplaying " className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
               <div className="carousel-inner">
 
                 <div className="carousel-item active">
