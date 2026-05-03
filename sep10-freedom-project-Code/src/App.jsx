@@ -11,7 +11,6 @@ function App() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    // Simulate loading delay or replace with actual logic
     const timer = setTimeout(() => {
       setIsLoading(false);
     }, 2000); // 2 seconds delay
@@ -24,15 +23,13 @@ function App() {
   }
 
   return (
-
     <>
-
-          <Caresol />
-          <Nav />
-          <Content />
+      <Caresol />
+      <Nav />
+      <Content />
     </>
-
   );
 }
 
 export default App;
+      
