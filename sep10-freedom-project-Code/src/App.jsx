@@ -20,7 +20,7 @@ function App() {
   }, []);
 
   if (isLoading) {
-    return <LoadingScreen />;
+    return <Loading />;
   }
 
   return (
