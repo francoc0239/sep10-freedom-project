@@ -14,10 +14,10 @@ function Nav() {
     </button>
     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div className="navbar-nav">
-        <a className="nav-link active"  href="#home">Home</a>
-        <a className="nav-link" aria-current="page" href="#context">Context</a>
-        <a className="nav-link" aria-current="page" href="#one">Part A</a>
-        <a className="nav-link " aria-current="page" href="#two">Part B</a>
+        <a className="nav-link active" href="#home">Home</a>
+        <a className="nav-link"  href="#context">Context</a>
+        <a className="nav-link" href="#one">Part A</a>
+        <a className="nav-link "  href="#two">Part B</a>
       </div>
     </div>
   </div>

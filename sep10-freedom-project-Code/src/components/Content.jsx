@@ -117,7 +117,10 @@ function Content() {
                             </div>
                         </div>
 
+
                         <div className="col-sm-12 col-md-6">
+                            <div id="two" />
+
                             <div className="card">
                                 <div
                                     id="carouselExample"
@@ -149,7 +152,8 @@ function Content() {
                                     </div>
                                 </div>
 
-                                <div className="card-body up #two">
+
+                                <div className="card-body up" >
                                     <h3 className="card-title">Pt B: Future Technology</h3>
                                     <br />
                                     <p className="card-text">There are many things that could be made in the far future in order to improve peoples health. There are many ideas too that we could make. Maybe in the near future we could find new discovieers to make these ideas possible. Here are some things that could be made with  future technology </p>
