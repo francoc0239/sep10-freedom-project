@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "../App.css";
+import React from 'react';
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -11,10 +12,40 @@ function Content() {
                 <div className="container">
                     <div className="container-fluid">
                         <div className="row justify-content-center">
-                            <div className="col-sm-12 col-md-9">
-                                <div className="card mb-3">
-                                    <img src="..." className="card-img-top" alt="..." />
-                                    <div className="card-body">
+                            <div className="col-sm-12 col-md-7">
+                                <div className="card md-3">
+                                    <div
+                                    id="carouselExample"
+                                    className="carousel slide"
+                                    data-bs-ride="carousel"
+                                >
+                                    <div className="carousel-inner">
+                                        <div className="carousel-item active">
+                                            <img
+                                                src="https://picsum.photos/600/300"
+                                                className="d-block w-100"
+                                                alt="Slide 1"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?blur"
+                                                className="d-block w-100"
+                                                alt="Slide 2"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?grayscale"
+                                                className="d-block w-100"
+                                                alt="Slide 3"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                    <div className="card-body up-2">
                                         <h4 className="card-title">Context</h4>
                                         <p className="card-text">The Medical Industry is everything related to Medcial products, Medical buildings, Health insurance, and jobs like; doctors, hospitals, and nurses. Technology has and always will be ingraved in the sucess of the Medcial Industry because of the big impact is has. Some examples are equipment like foil blankets, gauze, CT scanners, Bandges. These different types of equipment would not be here without technology.</p>
                                         <p className="card-text"><small className="text-body-secondary">Last updated 3 mins ago</small></p>
@@ -25,13 +56,43 @@ function Content() {
                     </div>
                 </div>
             </div >
+
             <div className="container">
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-sm-12 col-md-6">
                             <div className="card mb-3">
-                                <img src="..." className="card-img-top" alt="..." />
-                                <div className="card-body">
+                                                                <div
+                                    id="carouselExample"
+                                    className="carousel slide"
+                                    data-bs-ride="carousel"
+                                >
+                                    <div className="carousel-inner">
+                                        <div className="carousel-item active">
+                                            <img
+                                                src="https://picsum.photos/600/300"
+                                                className="d-block w-100"
+                                                alt="Slide 1"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?blur"
+                                                className="d-block w-100"
+                                                alt="Slide 2"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?grayscale"
+                                                className="d-block w-100"
+                                                alt="Slide 3"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className="card-body up">
                                     <h3 className="card-title">Pt A: Existing technology</h3>
                                     <br />
                                     <h4 className="card-text">Mental Health</h4>
@@ -48,13 +109,50 @@ function Content() {
                             </div>
                         </div>
                         <div className="col-sm-12 col-md-6">
-                            <div className="card mb-3">
-                                <img src="..." className="card-img-top" alt="..." />
-                                <div className="card-body">
+                            <div className="card">
+                                <div
+                                    id="carouselExample"
+                                    className="carousel slide"
+                                    data-bs-ride="carousel"
+                                >
+                                    <div className="carousel-inner">
+                                        <div className="carousel-item active">
+                                            <img
+                                                src="https://picsum.photos/600/300"
+                                                className="d-block w-100"
+                                                alt="Slide 1"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?blur"
+                                                className="d-block w-100"
+                                                alt="Slide 2"
+                                            />
+                                        </div>
+                                        <div className="carousel-item">
+                                            <img
+                                                src="https://picsum.photos/600/300?grayscale"
+                                                className="d-block w-100"
+                                                alt="Slide 3"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className="card-body up">
                                     <h3 className="card-title">Pt B: Future Technology</h3>
                                     <br />
-                                    <p className="card-text"></p>
-                                    <p className="card-text"></p>
+                                    <p className="card-text">There are many things that could be made in the far future in order to improve peoples health. There are many ideas too that we could make. Maybe in the near future we could find new discovieers to make these ideas possible. Here are some things that could be made with  future technology </p>
+                                    <ul>
+                                        <li>Personal Robot Doctor</li>
+                                    </ul>
+                                    <p className="card-text">THis robot doctor will be able to make you any medicine you need and it'll give you the right amount of medicine everytime do you dont accidently overdose. It'll be aable to taek your temperature and itll bne able to take care of you and give you things when you cant move during that time. It has the ability to move anywhere at anytime but it will give you priviciy. It has a built in safe Ai so it can be up to date and that will make sure there is no mistakes. You can call it whenever you want and you can name it anything you want. It doesnt use up electiry, it uses the sun in order to be charged.</p>
+                                    <ul>
+                                        <li>Fast Aid</li>
+                                    </ul>
+                                    <p className="card-text">This Fast Aid looks just like a regualr band aid. but its not a regular band aid. Its a band aid that can heal your cuts and bruises very fast. As you put on the bandaid, it heals minor cuts and bruises in 20 seconds and then you can just take it off. For bigger cuts, you can use a big fast aid it only takes 1 minite in order for your cut to heal. It will also disinfect your cuts so you wont get sick or your cut wont get infected. The fast aid is really flexableand light so it wont feel like you have one. Its comfotasble and faster way to heal your cuts</p>
+                                    <p className="card-text">The future of technology is endless and the future technology will be the key to a better medical industry. Itll save thousands of lives of those who are hurt. This is why technology is apart of the medical industry. </p>
                                 </div>
                             </div>
                         </div>

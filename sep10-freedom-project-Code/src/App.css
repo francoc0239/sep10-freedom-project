@@ -25,3 +25,17 @@ body{
 .center{
   margin-left: 100px;
 }
+
+.up{
+  margin-top: -300px !important;
+}
+.up-2{
+  margin-top: -275px;
+}
+
+@media (max-width: 1000px) {
+  .up-2 {
+    margin-top:-350px !important;
+  }
+}
+
