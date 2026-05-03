@@ -13,7 +13,7 @@ Topic: **The Medical Industry**
    * Thess apps keep track of peoples mental health and they do daily check ups to make sure people are spending time for their mental health.
    * These apps are amazing ways to relax and destress in a healthy way when you really need it
    * Images related to these topics: ![](https://static.wixstatic.com/media/d926b9_60e3bf3429e048fdb69dddae3a7cb694~mv2.png/v1/fill/w_200,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/moodfit%20logo.png) ![](https://mobile.va.gov/sites/default/files/image/icons/mindfulness-coach-app-icon.png)
- 
+
 * Physical Health
   * Apps/Gadgets looked into: [My Plate](https://www.myplate.gov/app/shopsimple/desktop), [Move Coach](https://mobile.va.gov/app/move-coach), [Contact len](https://www.fda.gov/medical-devices/consumer-products/contact-lenses), [Respiratory Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/respiratory-devices), [Hearing Aids](https://www.fda.gov/medical-devices/consumer-products/hearing-aids)
   * Findings:  These devices and apps give people medical care and improve their lives
@@ -25,20 +25,20 @@ Topic: **The Medical Industry**
 ## Part B: Future Technology
 * A personal doctor robot that goes with you wherever you go
   * image from AI: ![](baymax.png)
-  * The  robot will be able to make you any medicine you  need and it'll give you the right amount of medicine every time 
+  * The  robot will be able to make you any medicine you  need and it'll give you the right amount of medicine every time
   * It'll be able to take your temperature
   * It'll be able to take care of you and give you things when you can't move
-  * It'll be able to move anywhere at anytime 
+  * It'll be able to move anywhere at anytime
   * It has built in safe AI so it can be up to date
   * The robot will call you by whatever you want
   * The robot will charge using the sun as its energy source
   * The robot will also be able to contact the nearest hospital near you
   * You can call the robot anything you want
   * When you call the robots name, it will come over.
-    
 
-* A band aid that heals your cuts and bruises very fast 
-  * As you put on a bandaid, it just heals your minor cuts and bruises in 30 seconds and then you can just take it off. 
+
+* A band aid that heals your cuts and bruises very fast
+  * As you put on a bandaid, it just heals your minor cuts and bruises in 30 seconds and then you can just take it off.
   * It could also disinfect your cuts so you won't get sick or infected.
   * The band aid is really bendable so it wont feel uncomfortable
 
