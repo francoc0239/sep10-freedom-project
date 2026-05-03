@@ -8,19 +8,10 @@ import { Content } from "./components/Content";
 import { Loading } from "./components/Loading";
 
 function App() {
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-    }, 2000); // 2 seconds delay
-
-    return () => clearTimeout(timer);
-  }, []);
 
   if (isLoading) {
     return <Loading />;
-  }
+  };
 
   return (
     <>
@@ -32,4 +23,3 @@ function App() {
 }
 
 export default App;
-      
