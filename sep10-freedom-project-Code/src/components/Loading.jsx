@@ -2,17 +2,10 @@ import React from 'react';
 
 const Loading = () => {
   return (
-    <div style={{
-      display: 'flex',
-      justifyContent: 'center',
-      alignItems: 'center',
-      height: '100vh',
-      backgroundColor: '#f8f9fa',
-    }}>
+    <div className="loading">
       <h2>Loading...</h2>
     </div>
   );
 };
 
 export default Loading;
-      

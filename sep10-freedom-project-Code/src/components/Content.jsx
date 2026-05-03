@@ -13,41 +13,13 @@ function Content() {
                 <div className="container">
                     <div className="container-fluid">
                         <div className="row justify-content-center">
-                            <div className="col-sm-12 col-md-7">
+                            <div className="col-sm-12 col-md-7 d-flex">
                                 <div id="context" />
                                 <div className="card md-3">
-                                    <div
-                                    id="carouselExample"
-                                    className="carousel slide"
-                                    data-bs-ride="carousel"
-                                >
-                                    <div className="carousel-inner">
-                                        <div className="carousel-item active">
-                                            <img
-                                                src="https://picsum.photos/600/300"
-                                                className="d-block w-100"
-                                                alt="Slide 1"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?blur"
-                                                className="d-block w-100"
-                                                alt="Slide 2"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?grayscale"
-                                                className="d-block w-100"
-                                                alt="Slide 3"
-                                            />
-                                        </div>
-                                    </div>
-                                </div>
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgAxp968Nz37ftHw4kyMmvvzWuY2Gl_IriQ&s"></img>
 
 
-                                    <div className="card-body up-2 #context">
+                                    <div className="card-body #context">
                                         <h4 className="card-title">Context</h4>
                                         <p className="card-text">The Medical Industry is everything related to Medcial products, Medical buildings, Health insurance, and jobs like; doctors, hospitals, and nurses. Technology has and always will be ingraved in the sucess of the Medcial Industry because of the big impact is has. Some examples are equipment like foil blankets, gauze, CT scanners, Bandges. These different types of equipment would not be here without technology.</p>
                                     </div>
@@ -61,40 +33,12 @@ function Content() {
             <div className="container">
                 <div className="container-fluid">
                     <div className="row">
-                        <div className="col-sm-12 col-md-6">
+                        <div className="col-sm-12 col-md-6 d-flex">
                             <div id="one" />
                             <div className="card mb-4">
-                                                                <div
-                                    id="carouselExample"
-                                    className="carousel slide"
-                                    data-bs-ride="carousel"
-                                >
-                                    <div className="carousel-inner">
-                                        <div className="carousel-item active">
-                                            <img
-                                                src="https://picsum.photos/600/300"
-                                                className="d-block w-100"
-                                                alt="Slide 1"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?blur"
-                                                className="d-block w-100"
-                                                alt="Slide 2"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?grayscale"
-                                                className="d-block w-100"
-                                                alt="Slide 3"
-                                            />
-                                        </div>
-                                    </div>
-                                </div>
+                                <img src="https://static.wixstatic.com/media/d926b9_60e3bf3429e048fdb69dddae3a7cb694~mv2.png/v1/fill/w_200,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/moodfit%20logo.png"  />
 
-                                <div className="card-body up #one">
+                                <div className="card-body #one">
                                     <h3 className="card-title">Pt A: Existing technology</h3>
                                     <br />
                                     <h4 className="card-title">Mental Health</h4>
@@ -120,46 +64,20 @@ function Content() {
                         </div>
 
 
-                        <div className="col-sm-12 col-md-6">
+                        <div className="col-sm-12 col-md-6 d-flex">
                             <div id="two" />
 
-                            <div className="card">
-                                <div
-                                    id="carouselExample"
-                                    className="carousel slide"
-                                    data-bs-ride="carousel"
-                                >
-                                    <div className="carousel-inner">
-                                        <div className="carousel-item active">
-                                            <img
-                                                src="https://picsum.photos/600/300"
-                                                className="d-block w-100"
-                                                alt="Slide 1"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?blur"
-                                                className="d-block w-100"
-                                                alt="Slide 2"
-                                            />
-                                        </div>
-                                        <div className="carousel-item">
-                                            <img
-                                                src="https://picsum.photos/600/300?grayscale"
-                                                className="d-block w-100"
-                                                alt="Slide 3"
-                                            />
-                                        </div>
-                                    </div>
-                                </div>
 
 
-                                <div className="card-body up" >
+                            <div className="card mb-4 ">
+                                <img src="data:image/jpeg;base64,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" />
+
+
+                                <div className="card-body" >
                                     <h3 className="card-title">Pt B: Future Technology</h3>
                                     <br />
                                     <p className="card-text">There are many things that could be made in the far future in order to improve peoples health. There are many ideas too that we could make. Maybe in the near future we could find new discovieers to make these ideas possible. Here are some things that could be made with  future technology </p>
-                                    <ul  className="card-text">
+                                    <ul className="card-text">
                                         <li>Personal Robot Doctor</li>
                                     </ul>
                                     <p className="card-text">THis robot doctor will be able to make you any medicine you need and it'll give you the right amount of medicine everytime do you dont accidently overdose. It'll be aable to taek your temperature and itll bne able to take care of you and give you things when you cant move during that time. It has the ability to move anywhere at anytime but it will give you priviciy. It has a built in safe Ai so it can be up to date and that will make sure there is no mistakes. You can call it whenever you want and you can name it anything you want. It doesnt use up electiry, it uses the sun in order to be charged.</p>
@@ -170,6 +88,19 @@ function Content() {
                                     <p className="card-text">The future of technology is endless and the future technology will be the key to a better medical industry. Itll save thousands of lives of those who are hurt. This is why technology is apart of the medical industry. Without technology, nothing, including medicine wouldn't be the same. Nothing would work without technology and our lives would be different. </p>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h2 className="text-center">Extra Images</h2>
+            <div className="container">
+                <div className="container-fluid">
+                    <div className="row">
+                        <div className="col-sm-12 col-md-4">
+                            <img src="https://mobile.va.gov/sites/default/files/image/icons/mindfulness-coach-app-icon.png" width="300" className="img-fluid" />
+                        </div>
+                        <div className="col-sm-12 col-md-4">
+                            <img src="data:image/jpeg;base64,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" className="img-fluid" width="400"/>
                         </div>
                     </div>
                 </div>

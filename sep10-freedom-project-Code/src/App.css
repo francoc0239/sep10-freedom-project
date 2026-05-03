@@ -1,13 +1,14 @@
-
-body{
-    background-color:#FDFCDC;
+body {
+  background-color: #FDFCDC;
 }
-.carousel-caption{
-    top: 36%;
+
+.carousel-caption {
+  top: 36%;
   transform: translateY(-50%);
 
 
 }
+
 .carousel-item {
   height: 100vh;
 }
@@ -20,42 +21,76 @@ body{
 
 
 
-.center{
+.center {
   margin-left: 100px;
 }
 
-.up{
+.up {
   margin-top: -300px !important;
 }
-.up-2{
+
+.up-2 {
   margin-top: -275px;
 }
 
 
-.card{
-  margin-top:40px;
+.card {
+  margin-top: 40px;
 
 }
-.card-text{
+
+.card-text {
   font-size: 20px;
 }
-.card{
-  background-color:#FED9B7!important;
+
+.card {
+  background-color: #FED9B7 !important;
 }
-p{
-  color:#0081A7;
+
+p {
+  color: #0081A7;
 }
-.card-title{
-  color:#451111;
+
+.card-title {
+  color: #451111;
 }
-.first{
-  color:#451111;
+
+.first {
+  color: #451111;
 
 
 }
-.color{
+
+.color {
   background-color: #00AFB9 !important;
 }
-.nav-link{
-  color:#010212;
+
+.nav-link {
+  color: #010212;
+}
+
+.loading {
+  display: flex;
+  justify-Content:center;
+  align-items:center;
+  height:100vh;
+  background-Color:black;
+  color:white;
+  animation-name:fade;
+  z-index: 9999;
+  animation-duration:5s;
+  animation-timing-function:ease-in
+
+
+}
+@keyframes fade{
+   0%{
+    opacity:1;
+   }
+   50%{
+    opacity:0.5;
+   }
+   100%{
+    opacity:0;
+   }
 }
