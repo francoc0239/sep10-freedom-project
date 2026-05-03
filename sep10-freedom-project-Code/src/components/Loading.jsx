@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Loading = () => {
@@ -8,7 +7,7 @@ const Loading = () => {
       justifyContent: 'center',
       alignItems: 'center',
       height: '100vh',
-      backgroundColor: '#f8f9fa', // optional background
+      backgroundColor: '#f8f9fa',
     }}>
       <h2>Loading...</h2>
     </div>
@@ -16,3 +15,4 @@ const Loading = () => {
 };
 
 export default Loading;
+      
