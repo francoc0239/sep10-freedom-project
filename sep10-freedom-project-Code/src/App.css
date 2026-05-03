@@ -34,7 +34,22 @@ body{
 
 .card{
   margin-top:40px;
+
 }
 .card-text{
   font-size: 20px;
+}
+.card{
+  background-color:#FED9B7!important;
+}
+p{
+  color:#0081A7;
+}
+.card-title{
+  color:#451111;
+}
+.first{
+  color:#451111;
+
+
 }

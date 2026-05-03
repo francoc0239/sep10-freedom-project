@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Content() {
     return (
         <>
-            <h1 className="text-center"> The Medical Industry</h1>
+            <h1 className="text-center first"> The Medical Industry</h1>
             <div className="top">
                 <div className="container">
                     <div className="container-fluid">
