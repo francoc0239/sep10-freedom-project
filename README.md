@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # SEP10 Freedom Project
 by **X**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **X**.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
 
@@ -17,9 +17,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* 
+*
 ##### CONS
-* 
+*
 
 
 ## Blog
@@ -52,4 +52,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a4f4a48856b3716f2fc2fac3b5148fa56ab62dc4
