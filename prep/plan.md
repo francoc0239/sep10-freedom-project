@@ -46,16 +46,15 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+|Shamsiddin Shamsiev  | There is so much images and information to read. I really like the colors of the  website. There are so much sources.  | "Medical" is spelt "Medcial" on the navbar. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
