@@ -53,8 +53,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |Shamsiddin Shamsiev  | There is so much images and information to read. I really like the colors of the  website. There are so much sources.  | "Medical" is spelt "Medcial" on the navbar. |
-|  |  |  |
-|  |  |  |
+| Hasan |  I really like the personal robot doctor I would want one.| Would the doc |
+| Annabella | I like the auto playing carousel and the interesting color scheme. | Maybe in full screen make your context longer since there are large gaps on the sides of the card. |
 |  |  |  |
 |  |  |  |
 
