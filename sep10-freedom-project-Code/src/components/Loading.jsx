@@ -5,7 +5,8 @@ const Loading = () => {
     <div className="loading">
       <h2>Loading... Please wait</h2>
 
-    <div className="spinner-border text-light" role="status">
+<div class="d-flex justify-content-center" />
+    <div className="spinner-border text-light m-5"  role="status">
   <span className="visually-hidden">Loading... i know the loading sucks </span>
 </div>
 </div>
