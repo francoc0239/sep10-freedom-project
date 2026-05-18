@@ -17,7 +17,7 @@ function Caresol() {
                   <div className="carousel-caption d-md-block">
                     <h1 className="title">Medical Industry</h1>
                   </div>
-                </div>
+                </div>5
 
                 <div className="carousel-item ">
                   <img src="https://media.istockphoto.com/id/2215511952/photo/healthy-lifestyle-and-medical-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=2HVg6CokkdBDQzZO7F575GCwblwVdEcFWEnhEWb884U=" className="d-block w-100 size img-fluid custom-img" alt="..." />
