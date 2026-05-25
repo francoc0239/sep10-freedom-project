@@ -1,5 +1,8 @@
-# Entry 7
-##### X/X/XX
+# Entry 7: Presenting my Project
+# SEP10 Freedom Project
+##### 05/24/26
+## What have I been doing?
+
 
 Text
 
