@@ -10,13 +10,13 @@ After presenting our projects, our whole grade would have to present our project
 ## Engineering Design Process
 After finishing up the second to last stage of the Engineering Design Process, I've moved on to the final stage which is to start to process everything I have done to finish and present my project. In order to do this, I need to add my project to my portfolio in order for me to process it and so others can see my work. This will help me revise anything wrong with my project.
 ## Skills
-There are some skills that I learned while researching my topic. Some of those skills are **Creativity**, and ****.
-###
+There are some skills that I learned while researching my topic. Some of those skills are **Creativity**, and **Growth Mindset**.
 
-###
+### Creativity
+
+### Growth Mindset
 
 
-Text
 
 [Previous](entry06.md) | [Next](entry08.md)
 
