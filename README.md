@@ -7,7 +7,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Medical Industry**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **ReactJs** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **ReactJs** in order to help me make my website about the Medical Industry.
 
 ## Links
 
@@ -17,7 +17,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 
 ## Implications
 ##### PROS
-*
+* Social
+    * Students who want to do medicine or anything like that can get an understanding of what to expect or what could happen in the future
+    * 
 ##### CONS
 *
 
