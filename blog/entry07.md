@@ -7,6 +7,8 @@ Ever since the last blog entry, I've presented my final project to my classmates
 ### Expo Elevator Pitch
 After presenting our projects, our whole grade would have to present our projects and our presentations would be judged. First place would be able to show off their project to all of SEP students.
 
+##
+
 
 Text
 
