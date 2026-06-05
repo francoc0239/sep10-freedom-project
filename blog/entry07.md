@@ -13,8 +13,9 @@ After finishing up the second to last stage of the Engineering Design Process, I
 There are some skills that I learned while presenting my project. Some of those skills are **Creativity**, and **Growth Mindset**.
 
 ### Creativity
-While trying to make the 
+While trying to make my elevator pitch and the start of my in-class presentation in order to present my project, I had to be creative for my hooks. Im not that creative when it comes to hooks because I dont understand how to make people listen to me.so while trying to make a hook I had to get ideas from Google in order to make a hook thats creative, and that will actually hook the people into listening my project. After looking at google, I had some good ideas to talk about the future, but first explaing that we had to talk about the past. That sounded instresting for me, So I used it for my elevator pitch and my in-class presentation. I used google to help me make up a creative, but short way to show off future and past technology in the medical industry.
 ### Growth Mindset
+After presenting my elevator pitch and not getting first and getting a 9.5 in my in-class presenation. 
 
 
 
