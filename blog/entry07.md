@@ -15,7 +15,7 @@ There are some skills that I learned while presenting my project. Some of those 
 ### Creativity
 While trying to make my elevator pitch and the start of my in-class presentation in order to present my project, I had to be creative for my hooks. Im not that creative when it comes to hooks because I dont understand how to make people listen to me.so while trying to make a hook I had to get ideas from Google in order to make a hook thats creative, and that will actually hook the people into listening my project. After looking at google, I had some good ideas to talk about the future, but first explaing that we had to talk about the past. That sounded instresting for me, So I used it for my elevator pitch and my in-class presentation. I used google to help me make up a creative, but short way to show off future and past technology in the medical industry.
 ### Growth Mindset
-After presenting my elevator pitch and not getting first and getting a 9.5 in my in-class presenation. 
+Usually, when I fail to do something or don't do it good, I get upset because I want to do good. So, after presenting my elevator pitch and not getting first and getting a 9.5 in my in-class presenation. At first I was sad because I wanted to show off my project to the school. But instead of being jealous or being upset that I didn't do the best, I still kept a positive mindset. I told myself that I would do better next year, when we have the SEP11 Expo and present our SEP11 Freedom Project. 
 
 
 
