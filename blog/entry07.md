@@ -2,7 +2,7 @@
 # SEP10 Freedom Project
 ##### 05/24/26
 ## What have I been doing?
-Ever since the last blog entry, I've presented my final project to my classmates and my teacher. Over the past few weeks, hes been telling us to go present into the class and eventually, we would all have to present our work to the whole school. But before presenting to the whole school, we had to present to our class. For our class presentations, we had to make slides in order to show our project, our code, and our takeaways. Here are my [slides](https://docs.google.com/presentation/d/1mVLeSU44HhCN0NWGd-DVuCBHwAwHky5196HAwZ-r7zQ/edit?slide=id.g3e12c0c3639_0_0#slide=id.g3e12c0c3639_0_0) as an example
+Ever since the last blog entry, I've presented my final project to my classmates and my teacher. Over the past few weeks, hes been telling us to go present into the class and eventually, we would all have to present our work to the whole school. But before presenting to the whole school, we had to present to our class. For our class presentations, we had to make slides in order to show our project, our code, and our takeaways. Here are my [slides](https://docs.google.com/presentation/d/1mVLeSU44HhCN0NWGd-DVuCBHwAwHky5196HAwZ-r7zQ/edit?slide=id.g3e12c0c3639_0_0#slide=id.g3e12c0c3639_0_0) as an example. While making my slides for my pres
 
 Text
 
