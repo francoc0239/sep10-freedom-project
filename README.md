@@ -19,7 +19,8 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 ##### PROS
 * Social
     * Students who want to do medicine or anything like that can get an understanding of what to expect or what could happen in the future
-    * 
+    * people will understand the importance of technology in everything, even in the medical industry
+* Global
 ##### CONS
 *
 
