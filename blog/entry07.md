@@ -8,7 +8,12 @@ Ever since the last blog entry, I've presented my final project to my classmates
 After presenting our projects, our whole grade would have to present our projects and our presentations would be judged. First place would be able to show off their project to all of SEP students.
 
 ## Engineering Design Process
-After finishing up the second to last stage of the Engineering Design Process, I've moved on to the
+After finishing up the second to last stage of the Engineering Design Process, I've moved on to the final stage which is to start to process everything I have done to finish and present my project. In order to do this, I need to add my project to my portfolio in order for me to process it and so others can see my work. This will help me revise anything wrong with my project.
+## Skills
+There are some skills that I learned while researching my topic. Some of those skills are ****, and ****.
+###
+
+###
 
 
 Text
