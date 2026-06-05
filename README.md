@@ -13,7 +13,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 
 [Product]()
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1mVLeSU44HhCN0NWGd-DVuCBHwAwHky5196HAwZ-r7zQ/edit?slide=id.g3e12c0c3639_0_0#slide=id.g3e12c0c3639_0_0)
 
 ## Implications
 ##### PROS
