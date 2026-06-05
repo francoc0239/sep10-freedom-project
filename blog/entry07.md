@@ -2,7 +2,7 @@
 # SEP10 Freedom Project
 ##### 05/24/26
 ## What have I been doing?
-
+Ever since the last blog entry, I've presented my final project to my classmates and my teacher. Over the past few weeks, 
 
 Text
 
