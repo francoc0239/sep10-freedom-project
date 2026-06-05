@@ -19,10 +19,22 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **R
 ##### PROS
 * Social
     * Students who want to do medicine or anything like that can get an understanding of what to expect or what could happen in the future
-    * people will understand the importance of technology in everything, even in the medical industry
+    * People will understand the importance of technology in everything, even in the medical industry
+    * Technology will spread to other parts of the world
 * Global
+    * Governments would put in more money for the medical industry and research
+        * Cures to diseases like cancer
+    * Medicine would be more accessible
 ##### CONS
-*
+* Social
+    * People disagree with the idea of using AI in the medical industry
+    * People wouldn't trust the idea of a robot taking care of you which would lead to less people going to the doctor
+* Global
+    * needing more research labs would lead to needing more land
+        * cutting down trees in order to make land
+    * Less money going towards other parts of the world
+        * less money to support the economy
+
 
 
 ## Blog
