@@ -35,7 +35,6 @@ Below you will find my blog about how I made my project.
 * [Entry 8](blog/entry08.md)
 * [Entry 9](blog/entry09.md)
 * [Entry 10](blog/entry10.md)
-=======
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
